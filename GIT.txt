@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Data QA 12/2020 and random check"
+git remote add origin "GITHUB address"
+git push -u origin master 
